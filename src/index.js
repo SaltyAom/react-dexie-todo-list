@@ -166,7 +166,7 @@ class App extends React.Component {
                         }
                     </ul>
                 </div>
-                <a href="https://www.github.com/aomkirby123/react-dexie-todo-list" className="nav-link" target="_blank" rel="noopener noreferrer">aomkirby123 2018</a>
+                <a href="https://www.github.com/aomkirby123/react-dexie-todo-list" className="nav-link" target="_blank" rel="noopener noreferrer">View on Github</a>
             </div>
         )
     }
